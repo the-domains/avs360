@@ -1,0 +1,23 @@
+name: AVS360
+favicon: null
+layout_spectrum: 0.22010687878355384
+typography_spectrum: 0.6988635703455657
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.7876464114524424
+  lightness: 0.7047641300596297
+  saturation: 0.5478053451515734
+  rhythmicContrast: 0.9151661461219192
+purpose: []
